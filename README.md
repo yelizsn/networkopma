@@ -1,1 +1,1 @@
-# networkopma
+netsh interface show interface
